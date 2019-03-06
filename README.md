@@ -1,2 +1,2 @@
 # employee-system
-A simple program built in Python that manages employee data
+An employee management system built in Python that manages data including payroll, salary range and names
